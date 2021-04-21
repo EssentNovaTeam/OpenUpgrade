@@ -10,6 +10,8 @@ renamed_modules = {
     # OCA/server-tools
     "openupgrade_records": "upgrade_analysis",
     # OCA/...
+    # Custom
+    "l10n_be_partner": "l10n_be_partner_kbo_bce",
 }
 
 # Merged modules contain a mapping from old module names to other,
